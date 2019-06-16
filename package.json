@@ -4,12 +4,20 @@
   "displayName": "Ivalo",
   "description": "Nord-inspired dark theme with improved legibility",
   "version": "0.0.1",
+  "author": {
+    "name": "Naethiel",
+    "email": "naethiel1@outlook.com"
+  },
   "engines": {
     "vscode": "^1.35.0"
   },
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/naethiel/ivalo"
+  },
   "contributes": {
     "themes": [
       {
