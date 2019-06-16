@@ -1,0 +1,22 @@
+{
+  "name": "ivalo",
+  "publisher": "Naethiel",
+  "displayName": "Ivalo",
+  "description": "Nord-inspired dark theme with improved legibility",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.35.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ivalo",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ivalo-color-theme.json"
+      }
+    ]
+  }
+}
