@@ -1,6 +1,20 @@
 :root {
-  --background: #1b1f26;
-  --lighter-background: #242933;
-  --frostbite: #c1c9da;
-  --frostbite-darker: #a5aab4;
+  --darkGray-00: #1b1f26;
+  --darkGray-01: #242933;
+  --darkGray-02: #2f3541;
+  --darkGray-03: #3b4252;
+  --darkGray-04: #434c5e;
+  --darkGray-05: #4c566a;
+  --darkGray-06: #616e88;
+  --lightGray-00: #a5aab4;
+  --lightGray-01: #c1c9da;
+  --lightGray-02: #d8dee9;
+  --white: #eceff4;
+  --yellow: #ebcb8b;
+  --red: #fd9189;
+  --arcaneBlue: #6ed3ca;
+  --lightBlue: #81a1c1;
+  --strongBlue: #5e81ac;
+  --paleGreen: #8fbcbb;
+  --brightGreen: #a3be8c;
 }

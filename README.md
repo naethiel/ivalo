@@ -6,4 +6,4 @@ These improvements were made because I felt the original Nord theme was, althoug
 
 I'm a front-end developper, so the changes made are mostly directed at Javascript and JSX writing.
 
-Thanks to https://github.com/arcticicestudio for this awesome theme.
+Thanks to https://github.com/arcticicestudio for the awesome work that served as a base for Ivalo.
